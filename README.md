@@ -2,7 +2,8 @@
 
 이전 과정에서 만든 Todo 리스트를 Next.js로 옮기고, 회원가입 / 로그인을 붙여서 **회원 전용 Todo**로 만들었습니다.
 
-- 배포 주소: (Vercel 배포 후 추가)
+- 배포 주소: https://nextjs-todo-lilac-one.vercel.app
+- GitHub: https://github.com/imeab/nextjs-todo
 
 ## 기술
 
